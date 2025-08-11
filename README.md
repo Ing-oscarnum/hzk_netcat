@@ -27,7 +27,7 @@ pip install cryptography
 
 ### Server Mode
 bash  
-python3 hzk_netcat.py -l -p 53  
+`python3 hzk_netcat.py -l -p 53  `
 
 Output:  
 
@@ -38,7 +38,7 @@ Output:
 
 ### Client Mode
 bash  
-python3 hzk_netcat.py -t <SERVER_IP> -p 53 --key "X8@kP+2^qY4%zL9="  
+`python3 hzk_netcat.py -t <SERVER_IP> -p 53 --key "X8@kP+2^qY4%zL9="`  
 
 📖 Usage Examples  
 
@@ -54,7 +54,7 @@ python3 hzk_netcat.py -t <SERVER_IP> -p 53 --key "X8@kP+2^qY4%zL9="
 - Cybersecurity education  
 - Ethical hacking practice  
 
-By using this tool, you agree to:
+By using this tool, you agree to:  
 ✔️ Obtain proper authorization  
 ✔️ Comply with all applicable laws  
 ✔️ Accept full responsibility for your actions  

@@ -1,30 +1,39 @@
 🛠️ How to Contribute to HZK_NetCat
 First off, thank you for considering contributing to HZK_NetCat! Here's how to contribute effectively.
 
-## Table of Contents
+# Table of Contents
 1. [Quick Start](#-quick-start)
 2. [Contribution Areas](#-contribution-areas)
-3. [Responsible Disclosure Policy](#-Responsible Disclosure Policy)
+3. [Responsible Disclosure Policy](#-responsible-disclosure-policy)
 
-🚀 Quick Start 
+#🚀 Quick Start 
 bash
-# Clone your fork
-git clone https://github.com/ing-oscarnum/hzk_netcat.git
+## Clone your fork
+git clone https://github.com/ing-oscarnum/hzk_netcat.git  
 cd hzk_netcat
 
-# Install dev dependencies
+## Install dev dependencies
 pip install cryptography 
 
-🤝 Contribution Areas
+#🤝 Contribution Areas
+# Contribution Areas
+
+| Type        | Example Tasks                          | Code Reference          |
+|-------------|----------------------------------------|-------------------------|
+| Encryption  | Add AES-GCM mode                       | `crypt()` method        |
+| Networking  | Improve error handling for UDP support | `listen()`, `send()`    |
+| Security    | Implement key rotation                 | `generate_server_key()` |
+| Testing     | Add unit tests for file transfers      | `test_upload_download.py` |
+
 Type		    Example	Tasks				            Code Reference
 Encryption	Add AES-GCM mode			                crypt() method
 Networking	Improve error handling for UDP support	listen(), send()
 Security	Implement key rotation			            generate_server_key()
 Testing	Add unit tests for file transfers		    test_upload_download.py
 
-3. Responsible Disclosure Policy
-**For security vulnerabilities**, please contact: 
-📧 `ing.oscarnum+hzk_sec@gmail.com` 
+# Responsible Disclosure Policy
+**For security vulnerabilities**, please contact:   
+📧 `ing.oscarnum+hzk_sec@gmail.com`   
 🔐 **PGP Key**: [Download Public Key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x6256A439252153BFB4593713D8F9CA739FE7C1F2)
 
 ### Key Details
