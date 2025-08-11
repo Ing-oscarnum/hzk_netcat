@@ -39,11 +39,17 @@ Output:
 bash  
 python3 hzk_netcat.py -t <SERVER_IP> -p 53 --key "X8@kP+2^qY4%zL9="  
 
-📖 Usage Examples
+📖 Usage Examples  
 Command	                                                                Description
 python3 hzk_netcat.py -t 192.168.1.100 -p 53 -u=file.txt --key "KEY"    Upload file
 python3 hzk_netcat.py -t 192.168.1.100 -p 53 -d=remote.txt --key "KEY"  Download file
 > ls    	                                                                Execute remote command
+
+| Command                                                                 | Description               |
+|-------------------------------------------------------------------------|---------------------------|
+| `python3 hzk_netcat.py -t 192.168.1.100 -p 53 -u=file.txt --key "KEY"`  | Upload file               |
+| `python3 hzk_netcat.py -t 192.168.1.100 -p 53 -d=remote.txt --key "KEY"`| Download file             |
+| `> ls`                                                                 | Execute remote command    |
 
 ## ⚠️ Security Disclaimer
 ❗ Legal Use Only:  
@@ -62,6 +68,17 @@ Encryption	    AES-256-CBC + PKCS7 padding
 Key Size	256-bit (SHA-256 derived)  
 Default Port	53  (Customizable with -p)  
 Buffer Size	    4096 bytes  
+
+```markdown
+|----------------|----------------------------------|
+| Component      | Details                          |
+|----------------|----------------------------------|
+| **Encryption** | AES-256-CBC + PKCS7 padding      |
+| **Key Size**   | 256-bit (SHA-256 derived)        |
+| **Default Port**| `53` (Customizable with `-p`)    |
+| **Buffer Size**| 4096 bytes                       |
+|----------------|----------------------------------|
+```
 
 ## 📂 Project Structure
 📦 hzk_netcat/  
