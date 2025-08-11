@@ -1,1 +1,1 @@
-pip install cryptography
+cryptography>=43.0.0

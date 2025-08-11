@@ -2,7 +2,8 @@
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Requirements](https://img.shields.io/badge/dependencies-see%2520requirements.txt-orange)
+[![GitHub License](https://img.shields.io/github/license/ing-oscarnum/hzk_netcat)](./LICENSE)
+[![Dependencies](https://img.shields.io/badge/dependencies-see%20requirements.txt-orange)](./requirements.txt)
 
 **Secure bidirectional file transfer and remote command execution tool** designed for ethical hacking and authorized penetration testing.
 
@@ -59,22 +60,7 @@ By using this tool, you agree to:
 ✔️ Accept full responsibility for your actions  
 
 ## 🛠️ Technical Specifications
-Component	    Details  
-Encryption	    AES-256-CBC + PKCS7 padding  
-Key Size	256-bit (SHA-256 derived)  
-Default Port	53  (Customizable with -p)  
-Buffer Size	    4096 bytes  
 
-```markdown
-|----------------|----------------------------------|
-| Component      | Details                          |
-|----------------|----------------------------------|
-| **Encryption** | AES-256-CBC + PKCS7 padding      |
-| **Key Size**   | 256-bit (SHA-256 derived)        |
-| **Default Port**| `53` (Customizable with `-p`)    |
-| **Buffer Size**| 4096 bytes                       |
-|----------------|----------------------------------|
-```
 | Component      | Details                          |
 |----------------|----------------------------------|
 | **Encryption** | AES-256-CBC + PKCS7 padding      |
@@ -88,8 +74,10 @@ Buffer Size	    4096 bytes
 ├── 📜 README.md              # Project documentation  
 ├── 📜 LICENSE                # MIT License  
 ├── 📜 CONTRIBUTING.md        # Contribution guidelines  
+├── 📜 Requirements.txt       # Dependencies file  
 └── 📜 .gitignore             # Ignored files  
 
 ## 📜 License
 MIT © 2025 Oscar R. Núñez M.
-
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
