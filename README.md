@@ -27,7 +27,7 @@ pip install cryptography
 
 ### Server Mode
 bash  
-`python3 hzk_netcat.py -l -p 53  `
+`python3 hzk_netcat.py -l -p 53`
 
 Output:  
 
