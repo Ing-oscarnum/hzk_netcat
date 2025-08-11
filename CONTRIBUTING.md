@@ -2,17 +2,19 @@
 First off, thank you for considering contributing to HZK_NetCat! Here's how to contribute effectively.
 
 # Table of Contents
-1. [Quick Start](#quick-start)
-2. [Contribution Areas](#contribution-areas)
-3. [Responsible Disclosure Policy](#responsible-disclosure-policy)
+1. [Quick Start](quick-start)
+2. [Contribution Areas](contribution-areas)
+3. [Responsible Disclosure Policy](responsible-disclosure-policy)
 
 # 🚀 Quick Start 
 bash
 ## Clone your fork
-```git clone https://github.com/ing-oscarnum/hzk_netcat.git 
+```bash
+git clone https://github.com/ing-oscarnum/hzk_netcat.git 
 ``` 
 
-```cd hzk_netcat
+```bash
+cd hzk_netcat
 ```
 
 ## Install dev dependencies
@@ -21,7 +23,6 @@ pip install cryptography
 ```
 
 # 🤝 Contribution Areas
-# Contribution Areas
 
 | Type        | Example Tasks                          | Code Reference          |
 |-------------|----------------------------------------|-------------------------|
