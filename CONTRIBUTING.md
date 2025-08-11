@@ -16,11 +16,14 @@ bash
 * pip install cryptography 
 
 # Contribution Areas
-* Type		    Example	Tasks				            Code Reference
-* Encryption    	Add AES-GCM mode			                crypt() method
-* Networking    	Improve error handling for UDP support	listen(), send()
-* Security	    Implement key rotation			        generate_server_key()
-* Testing	    Add unit tests for file transfers		test_upload_download.py
+# Contribution Areas
+
+| Type        | Example Tasks                          | Code Reference          |
+|-------------|----------------------------------------|-------------------------|
+| Encryption  | Add AES-GCM mode                       | `crypt()` method        |
+| Networking  | Improve error handling for UDP support | `listen()`, `send()`    |
+| Security    | Implement key rotation                 | `generate_server_key()` |
+| Testing     | Add unit tests for file transfers      | `test_upload_download.py` |
 
 # Responsible Disclosure Policy
 **For security vulnerabilities**, please contact: 
