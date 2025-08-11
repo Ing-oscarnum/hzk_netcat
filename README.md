@@ -27,9 +27,9 @@ pip install cryptography
 ### Server Mode
 bash  
 python3 hzk_netcat.py -l -p 53  
-Output:
 
-text  
+Output:  
+
 [+] GENERATED KEY (SAVE THIS):  
     X8@kP+2^qY4%zL9=  
 [!] This key will NOT be shown again  
@@ -37,7 +37,7 @@ text
 
 ### Client Mode
 bash  
-python3 hzk_netcat.py -t <SERVER_IP> -p 53 --key "X8@kP+2^qY4%zL9="
+python3 hzk_netcat.py -t <SERVER_IP> -p 53 --key "X8@kP+2^qY4%zL9="  
 
 📖 Usage Examples
 Command	                                                                Description
@@ -46,10 +46,10 @@ python3 hzk_netcat.py -t 192.168.1.100 -p 53 -d=remote.txt --key "KEY"  Download
 > ls    	                                                                Execute remote command
 
 ## ⚠️ Security Disclaimer
-❗ Legal Use Only:
-Authorized penetration testing  
-Cybersecurity education  
-Ethical hacking practice  
+❗ Legal Use Only:  
+- Authorized penetration testing  
+- Cybersecurity education  
+- Ethical hacking practice  
 
 By using this tool, you agree to:
 ✔️ Obtain proper authorization  
@@ -64,7 +64,7 @@ Default Port	53  (Customizable with -p)
 Buffer Size	    4096 bytes  
 
 ## 📂 Project Structure
-📦 hzk_netcat/
+📦 hzk_netcat/  
 ├── 📜 hzk_netcat.py          # Main application  
 ├── 📜 README.md              # Project documentation  
 ├── 📜 LICENSE                # MIT License  
