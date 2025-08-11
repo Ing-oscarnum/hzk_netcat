@@ -2,20 +2,25 @@
 First off, thank you for considering contributing to HZK_NetCat! Here's how to contribute effectively.
 
 # Table of Contents
-1. [Quick Start](#-quick-start)
-2. [Contribution Areas](#-contribution-areas)
-3. [Responsible Disclosure Policy](#-responsible-disclosure-policy)
+1. [Quick Start](#quick-start)
+2. [Contribution Areas](#contribution-areas)
+3. [Responsible Disclosure Policy](#responsible-disclosure-policy)
 
-#🚀 Quick Start 
+# 🚀 Quick Start 
 bash
 ## Clone your fork
-git clone https://github.com/ing-oscarnum/hzk_netcat.git  
-cd hzk_netcat
+```git clone https://github.com/ing-oscarnum/hzk_netcat.git 
+``` 
+
+```cd hzk_netcat
+```
 
 ## Install dev dependencies
-pip install cryptography 
+```bash
+pip install cryptography
+```
 
-#🤝 Contribution Areas
+# 🤝 Contribution Areas
 # Contribution Areas
 
 | Type        | Example Tasks                          | Code Reference          |
@@ -24,12 +29,6 @@ pip install cryptography
 | Networking  | Improve error handling for UDP support | `listen()`, `send()`    |
 | Security    | Implement key rotation                 | `generate_server_key()` |
 | Testing     | Add unit tests for file transfers      | `test_upload_download.py` |
-
-Type		    Example	Tasks				            Code Reference
-Encryption	Add AES-GCM mode			                crypt() method
-Networking	Improve error handling for UDP support	listen(), send()
-Security	Implement key rotation			            generate_server_key()
-Testing	Add unit tests for file transfers		    test_upload_download.py
 
 # Responsible Disclosure Policy
 **For security vulnerabilities**, please contact:   
