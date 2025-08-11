@@ -2,11 +2,11 @@
 First off, thank you for considering contributing to HZK_NetCat! Here's how to contribute effectively.
 
 # Table of Contents
-1. [Quick Start](#quick-start)
-2. [Contribution Areas](#contribution-areas)
-3. [Responsible Disclosure Policy](#responsible-Disclosure-Policy)
+* [Quick Start](#quick-start)
+* [Contribution Areas](#contribution-areas)
+* [Responsible Disclosure Policy](#responsible-disclosure-policy)
 
-1. Quick Start
+# Quick Start
 bash
 ## Clone your fork
 git clone https://github.com/ing-oscarnum/hzk_netcat.git
