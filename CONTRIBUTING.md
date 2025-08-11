@@ -2,9 +2,9 @@
 First off, thank you for considering contributing to HZK_NetCat! Here's how to contribute effectively.
 
 # Table of Contents
-1. [Quick Start](#-quick-start)
-2. [Contribution Areas](#-contribution-areas)
-3. [Responsible Disclosure Policy](#-responsible Disclosure Policy)
+1. [Quick Start](#quick-start)
+2. [Contribution Areas](#contribution-areas)
+3. [Responsible Disclosure Policy](#responsible-Disclosure-Policy)
 
 1. Quick Start
 bash
