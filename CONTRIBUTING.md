@@ -32,6 +32,7 @@ pip install cryptography
 | Testing     | Add unit tests for file transfers      | `test_upload_download.py` |
 
 # 🛡️ Responsible Disclosure Policy
+
 **For security vulnerabilities**, please contact:   
 📧 `ing.oscarnum+hzk_sec@gmail.com`   
 🔐 **PGP Key**: [Download Public Key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x6256A439252153BFB4593713D8F9CA739FE7C1F2)
