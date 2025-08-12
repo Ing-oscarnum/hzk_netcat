@@ -23,7 +23,7 @@ cd hzk_netcat
 pip install cryptography
 ```
 
-# 🤝 Contribution Areas  🛡️
+# 🤝 Contribution Areas  
 
 | Type        | Example Tasks                          | Code Reference          |
 |-------------|----------------------------------------|-------------------------|
@@ -32,7 +32,7 @@ pip install cryptography
 | Security    | Implement key rotation                 | `generate_server_key()` |
 | Testing     | Add unit tests for file transfers      | `test_upload_download.py` | 
 
-# Responsible Disclosure Policy    
+# Responsible Disclosure Policy 🛡️  
 
 **For security vulnerabilities**, please contact:   
 📧 `ing.oscarnum+hzk_sec@gmail.com`   
