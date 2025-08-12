@@ -32,7 +32,7 @@ pip install cryptography
 | Security    | Implement key rotation                 | `generate_server_key()` |
 | Testing     | Add unit tests for file transfers      | `test_upload_download.py` | 
 
-# 🛡️ Responsible Disclosure Policy  
+# Responsible Disclosure Policy 🛡️ 
 # 🤝 Contribution Areas  
 **For security vulnerabilities**, please contact:   
 📧 `ing.oscarnum+hzk_sec@gmail.com`   
