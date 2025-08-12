@@ -6,7 +6,7 @@ First off, thank you for considering contributing to HZK_NetCat! Here's how to c
 * [Contribution Areas](#-contribution-areas)
 * [Responsible Disclosure Policy](#-responsible-disclosure-policy)
 
-# 🚀 Quick Start 
+# 🚀 Quick Start  
 bash
 ## Clone your fork
 ```bash
@@ -22,7 +22,7 @@ cd hzk_netcat
 pip install cryptography
 ```
 
-# 🤝 Contribution Areas
+# 🤝 Contribution Areas  
 
 | Type        | Example Tasks                          | Code Reference          |
 |-------------|----------------------------------------|-------------------------|
