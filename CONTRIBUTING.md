@@ -30,9 +30,9 @@ pip install cryptography
 | Encryption  | Add AES-GCM mode                       | `crypt()` method        |
 | Networking  | Improve error handling for UDP support | `listen()`, `send()`    |
 | Security    | Implement key rotation                 | `generate_server_key()` |
-| Testing     | Add unit tests for file transfers      | `test_upload_download.py` |
+| Testing     | Add unit tests for file transfers      | `test_upload_download.py` |🛡️ 
 
-# 🛡️ Responsible Disclosure Policy
+# Responsible Disclosure Policy
 
 **For security vulnerabilities**, please contact:   
 📧 `ing.oscarnum+hzk_sec@gmail.com`   
