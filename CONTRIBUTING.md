@@ -4,7 +4,7 @@ First off, thank you for considering contributing to HZK_NetCat! Here's how to c
 # Table of Contents
 * [Quick Start](#-quick-start)
 * [Contribution Areas](#-contribution-areas)
-* [Responsible Disclosure Policy](#-responsible-disclosure-policy)
+* [Responsible Disclosure Policy](#responsible-disclosure-policy)
 * [Responsible Disclosure Policy](#-responsible-disclosure-policy)
 
 # 🚀 Quick Start  
