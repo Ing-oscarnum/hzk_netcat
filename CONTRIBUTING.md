@@ -4,7 +4,7 @@ First off, thank you for considering contributing to HZK_NetCat! Here's how to c
 # Table of Contents
 * [Quick Start](#-quick-start)
 * [Contribution Areas](#-contribution-areas)
-* [Responsible Disclosure Policy](#-responsible-disclosure-policy)
+* [Responsible Disclosure Policy](#responsible-disclosure-policy)
 
 
 # 🚀 Quick Start  
@@ -32,7 +32,7 @@ pip install cryptography
 | Security    | Implement key rotation                 | `generate_server_key()` |
 | Testing     | Add unit tests for file transfers      | `test_upload_download.py` | 
 
-# Responsible Disclosure Policy 🛡️  
+# Responsible Disclosure Policy  
 
 **For security vulnerabilities**, please contact:   
 📧 `ing.oscarnum+hzk_sec@gmail.com`   
