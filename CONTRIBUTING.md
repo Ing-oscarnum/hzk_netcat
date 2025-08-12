@@ -3,8 +3,9 @@ First off, thank you for considering contributing to HZK_NetCat! Here's how to c
 
 # Table of Contents
 * [Quick Start](#-quick-start)
-* [Contribution Areas](#-contribution-areas)
 * [Responsible Disclosure Policy](#-resporsible-disclosure-policy)
+* [Contribution Areas](#-contribution-areas)
+
 
 # 🚀 Quick Start  
 bash
